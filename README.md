@@ -1,3 +1,5 @@
+# Situação do Trabalho: EM ANDAMENTO
+
 ## Referências
 - [Refactoring Guru](https://refactoring.guru/pt-br)
 
