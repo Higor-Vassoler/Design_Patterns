@@ -29,7 +29,7 @@ void DataBase::imprimir()
     int cont = 1;
     for (auto &item : hamburguers)
     {
-        cout << "Hamburguer " << cont << ":\n"
+        cout << "Hamburguer " << cont << ":"
              << "Pao: " << tipoPaoToString(item.getTipoPao()) << "\n"
              << "Carne: " << tipoCarneToString(item.getTipoCarne()) << "\n"
              << "Quantidade de carne: " << item.getQntdCarne() << "\n"

@@ -1,5 +1,6 @@
 #ifndef HAMBURGUER_HPP
 #define HAMBURGUER_HPP
+#include <string>
 
 enum class TipoPao
 {
