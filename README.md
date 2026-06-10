@@ -1,4 +1,4 @@
-# Situação do Trabalho: EM ANDAMENTO
+# Situação do Trabalho: **EM ANDAMENTO**
 
 ## Referências
 - [Refactoring Guru](https://refactoring.guru/pt-br)
@@ -10,7 +10,7 @@
 - [Builder Design Pattern Explained in 10 Minutes](https://youtu.be/oP76NM4qZhw?si=ya5OQdb2f_cabMCM)
 
 ## Sobre o uso de LLM's:
-- As Inteligências Artificiais usadas foram:
+- As Inteligências Artificiais usadas foram apenas:
 - Gemini;
 - ChatGpt;
 
@@ -28,6 +28,6 @@
 
 ## Descrição do Projeto:
 Sera realizado a implementação de um padrão **Criacional**(Creational), **Estrutural**(Structural) e **Comportamental**(Behavior).
-- Criacional - Builder (Constructor);
-- Estrutural -
+- Criacional     - Builder (Constructor);
+- Estrutural     - Facade;
 - Comportamental - Mediator (Controller);

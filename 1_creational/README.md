@@ -1,3 +1,7 @@
+# Sobre o uso da IA no presente programa:
+- O uso de IA's neste programa se deu basicamente por revisar o código, tirar dúvidas específicas da linguagem e implementação e também alguns pequenos trechos do código.
+- Importante ressaltar que o código **NÃO FOI FEITO INTEIRAMENTE PELA IA**.
+
 # O que é o padrão "Builder"?
 - Ele é um padrão de projeto que atua na parte criacional, ou seja, nas classes ou afins.
 - É usado quando uma classe possui muitos atributos, onde é criada uma outra classe que servirá para a construção do objeto da classe principal.
@@ -10,7 +14,7 @@
 
 ## 1º Você precisa compilar o programa, basta copiar e colar o comando abaixo no terminal.
 
-g++ -std=c++17 -Wall -Wextra main.cpp Hamburguer.cpp BD.cpp enum_conversor.cpp -o hamburguer_program.exe
+- g++ -std=c++17 -Wall -Wextra main.cpp Hamburguer.cpp BD.cpp enum_conversor.cpp -o hamburguer_program.exe
 
 ## 2º Após compilar, insira o código abaixo para rodar o programa.
-.\hamburguer_program.exe
+- .\hamburguer_program.exe
