@@ -16,10 +16,10 @@
 
 - cd Design_Patterns\2_structure\Cadastro_Produtos
 
-## 1º Você precisa compilar o programa, basta copiar e colar o comando abaixo no terminal.
+## 2º Você precisa compilar o programa, basta copiar e colar o comando abaixo no terminal.
 
 - g++ main.cpp BD.cpp Produto.cpp ProdutoFacade.cpp Util.cpp Validation.cpp -o programa
 
-## 2º Após compilar, insira o código abaixo para rodar o programa.
+## 3º Após compilar, insira o código abaixo para rodar o programa.
 - .\programa.exe
 
