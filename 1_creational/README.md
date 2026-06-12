@@ -12,7 +12,11 @@
 
 # Como rodar o programa?
 
-## 1º Você precisa compilar o programa, basta copiar e colar o comando abaixo no terminal.
+## 1º Vá até a raiz da pasta "Hamburguer_Creator" no seu terminal.
+
+cd Design_Patterns\1_creational\Hamburguer_Creator
+
+## 2º Você precisa compilar o programa, basta copiar e colar o comando abaixo no terminal.
 
 - g++ -std=c++17 -Wall -Wextra main.cpp Hamburguer.cpp BD.cpp enum_conversor.cpp -o hamburguer_program.exe
 
