@@ -21,5 +21,5 @@
 - g++ main.cpp BD.cpp Produto.cpp ProdutoFacade.cpp Util.cpp Validation.cpp -o programa
 
 ## 3º Após compilar, insira o código abaixo para rodar o programa.
-- .\programa.exe
+- ./programa.exe
 
