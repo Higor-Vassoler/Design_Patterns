@@ -13,9 +13,13 @@
 
 # Como rodar o programa?
 
-## 1º Você precisa compilar o programa, basta copiar e colar o comando abaixo no terminal.
+## 1º Vá até a raiz da pasta "Semáforo" no seu terminal.
 
-g++ main.cpp mediator.cpp semaforo.cpp -o semaforos
+- cd Design_Patterns\3_behavioral\Semáforo
 
-## 2º Após compilar, insira o código abaixo para rodar o programa.
-.\semaforos.exe
+## 2º Você precisa compilar o programa, basta copiar e colar o comando abaixo no terminal.
+
+- g++ main.cpp mediator.cpp semaforo.cpp -o semaforos
+
+## 3º Após compilar, insira o código abaixo para rodar o programa.
+./semaforos.exe
