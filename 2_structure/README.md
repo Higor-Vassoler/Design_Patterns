@@ -12,6 +12,10 @@
 
 # Como rodar o programa?
 
+## 1º Vá até a raiz da pasta "Cadastro_Produtos" no seu terminal.
+
+- cd Design_Patterns\2_structure\Cadastro_Produtos
+
 ## 1º Você precisa compilar o programa, basta copiar e colar o comando abaixo no terminal.
 
 - g++ main.cpp BD.cpp Produto.cpp ProdutoFacade.cpp Util.cpp Validation.cpp -o programa
