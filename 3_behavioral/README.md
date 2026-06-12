@@ -1,3 +1,7 @@
+# Sobre o uso da IA no presente programa:
+- O uso de IA's neste programa se deu por providênciar a ideia do projeto (Semáforos), revisar o código, tirar dúvidas específicas da linguagem e implementação e também alguns pequenos trechos do código.
+- Importante ressaltar que o código **NÃO FOI FEITO INTEIRAMENTE PELA IA**.
+
 # O que é o padrão "Mediator"?
 - Ele é um padrão de projeto que atua na parte comportamental, ou seja, como as classes se comunicam sem se ver.
 - É usado quando você precisa que um objeto interaja com outro objeto sendo que nenhum deles se veem, por isso existe um "mediator", que é uma classe que gerência a comunicação dessas outras classes.
